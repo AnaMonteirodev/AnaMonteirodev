@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Ciência da Computação no IFCE Maracanaú.<br>Estou a procura de Estágio
+Estudante de Ciência da Computação no IFCE Maracanaú.
 
 
 ## 🌐 Socials:
