@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Ciência da Computação no IFCE Maracanaú.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
 
 ## 🌐 Socials:
