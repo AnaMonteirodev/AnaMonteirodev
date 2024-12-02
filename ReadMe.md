@@ -3,7 +3,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no primeiro p
 Tenho experiência com C e C#, além de conhecimento básico em HTML, CSS e JavaScript. 
 Estou sempre buscando me desafiar e expandir minhas habilidades em tecnologias e ferramentas de desenvolvimento.
 
-Fiz parte do Núcleo de Desenvolvimento de Softwares (NDS) como estagiária voluntária no IFCE Maracanaú, onde tive a oportunidade de colaborar com projetos práticos e aprender mais sobre o desenvolvimento de sistemas em um ambiente real de trabalho.
+Fiz parte do Núcleo de Desenvolvimento de Softwares (NDS) como estagiária voluntária no IFCE Maracanaú, onde tive a oportunidade de adquirir conhecimentos práticos em tecnologias e metodologias de desenvolvimento de software.
 
 Atualmente, estou em busca de uma oportunidade de estágio para crescer profissionalmente e contribuir com meus conhecimentos em projetos inovadores.
 
